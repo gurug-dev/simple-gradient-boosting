@@ -1,5 +1,3 @@
-The raw markdown for the readme file content is:
-
 # Simple Gradient Boosting
 
 This is a Python project that implements a basic version of gradient boosting trees for regression problems. 
